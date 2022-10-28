@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy 2 packages to &apos;demo-1/src/main/java&apos;&#x0D;&#x0A;- Original project: &apos;demo&apos;&#x0D;&#x0A;- Destination element: &apos;demo-1/src/main/java&apos;&#x0D;&#x0A;- Original elements:&#x0D;&#x0A;     demo/src/main/java/com.aakil.controller&#x0D;&#x0A;     demo/src/main/java/com.aakil" description="Copy packages" destination="=demo-1/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/" element1="/src\/main\/java=/gradle_scope=/main=/=/gradle_used_by_scope=/main,test=/&lt;com.aakil.controller" element2="/src\/main\/java=/gradle_scope=/main=/=/gradle_used_by_scope=/main,test=/&lt;com.aakil" flags="589830" fragments="2" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyPackages" stamp="1666961955963" version="1.0"/>
+</session>
